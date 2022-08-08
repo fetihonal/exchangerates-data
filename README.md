@@ -13,13 +13,13 @@ Bu proje case olarak yapılmıştır.
 Projeyi klonlayın
 
 ```bash
-  git clone https://github.com/fetihonal/case-hps.git
+  git clone https://github.com/fetihonal/exchangerates-data.git
 ```
 
 Proje dizinine gidin
 
 ```bash
-  cd my-project
+  cd exchangerates-data
 ```
 
 Gerekli paketleri yükleyin
