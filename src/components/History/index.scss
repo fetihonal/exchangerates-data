@@ -1,0 +1,20 @@
+.history-box{
+    border-radius: 10px;
+    border:1px solid #0c651b;
+    margin-top:30px;
+    padding:20px;
+    h2{
+        font-size:22px;
+        font-weight: 600;
+        margin-bottom:20px;
+        border-bottom:1px solid #bdbdbd;
+        padding-bottom: 10px;
+    }
+    ul{
+        padding:0px
+    }
+    li{
+        font-size:18px;
+        list-style-type: none;
+    }
+}
